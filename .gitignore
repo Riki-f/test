@@ -1,0 +1,7 @@
+# Python 仮想環境
+venv/
+# キャッシュや一時ファイル
+__pycache__/
+*.py[cod]
+# VS Code ワークスペース設定
+.vscode/
